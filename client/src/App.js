@@ -9,7 +9,7 @@ import UserInfo from './components/userInfo/UserInfo';
 function App() {
   return (
     <div className="App">
-      <h1>Barber Shop</h1>
+      <h1>Barber Shop</h1> 
     </div>
   );
 }
